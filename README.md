@@ -1,4 +1,4 @@
-### Casus B2D-2 2019/2020
+# Casus B2D-2 2019/2020
 |Voornaam  |Tussenvoegsel|Achternaam |Scrumgroep|
 |----------|-------------|-----------|:--------:|
 |Allysa    |de           |Raat       |1         |
