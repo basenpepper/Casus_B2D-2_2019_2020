@@ -1,7 +1,7 @@
 # Casus B2D-2 2019/2020
-## Scrum groep 2
+## Scrum groep 5
 ### Leden:
-* Bas Körver
+* Bas KÃ¶rver
 * Joey Einerhand
 * Jasper Lelieveld
 * Kelvin Dormans
