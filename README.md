@@ -1,7 +1,7 @@
 # Casus B2D-2 2019/2020
 |Voornaam  |Tussenvoegsel|Achternaam |Scrumgroep|
 |----------|-------------|-----------|:--------:|
-|Allysa    |de           |Raat       |1         |
+|Alyssa    |de           |Raat       |1         |
 |Luc       |             |Quaedvlieg |1         |
 |Nick      |             |Rau        |1         |
 |Nomi      |van          |Laarschot  |1         |
