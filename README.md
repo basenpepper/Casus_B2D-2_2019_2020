@@ -4,4 +4,4 @@
 * Luc Quaedvlieg
 * Nick Rau
 * Nomi van Laarschot
-* Allysa de Raat
+* Alyssa de Raat
