@@ -1,7 +1,7 @@
 # Casus B2D-2 2019/2020
-## Scrum groep 3
+## SCRUM-groep 3
 ### Leden:
 * Anouk van Geel
+* Jeremy AuÃ©
 * Kevin Wijnen
-* Jeremy Aué
 * Yordi van Horck
