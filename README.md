@@ -13,9 +13,9 @@
 |Jeremy    |             |Aué        |3         |
 |Kevin     |             |Wijnen     |3         |
 |Yordi     |van          |Horck      |3         |
-|Alain     |             |Lardinois  |4         |
 |Boy       |             |Pappers    |4         |
 |Cyrus     |             |Schoonbrood|4         |
+|Leroy     |             |Bemelen    |??        |
 |Rob       |de           |Jonge      |4         |
 |Bas       |             |Körver     |5         |
 |Joey      |             |Einerhand  |5         |
@@ -24,3 +24,4 @@
 |Bas       |van          |Dooren     |6         |
 |Robin     |             |Baltus     |6         |
 |Siem      |             |Neyzen     |6         |
+|Alain     |             |Lardinois  |6         |
