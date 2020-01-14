@@ -2,6 +2,6 @@
 ## Scrum groep 2
 ### Leden:
 * Connor Deutz
-* Youri Broskij
 * Gianfranco Kamps
 * Niels Kersic
+* Youri Broskij
