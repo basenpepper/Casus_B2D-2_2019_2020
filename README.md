@@ -2,6 +2,6 @@
 ## Scrum groep 4
 ### Leden:
 * Boy Pappers
-* Cyrus Schoonbrood 
-*
+* Cyrus Schoonbrood
 * Rob de Jonge
+*
