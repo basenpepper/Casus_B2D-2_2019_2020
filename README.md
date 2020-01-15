@@ -2,6 +2,7 @@
 ## SCRUM-groep 6
 ### Leden:
 * Alain Lardinois
-* Bas van Dooren
+* ~~Bas van Dooren
+* Leroy Bemelen
 * Robin Baltus
 * Siem Neyzen
