@@ -4,4 +4,3 @@
 * Boy Pappers
 * Cyrus Schoonbrood
 * Rob de Jonge
-*
