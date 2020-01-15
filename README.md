@@ -15,13 +15,13 @@
 |Yordi     |van          |Horck      |3         |
 |Boy       |             |Pappers    |4         |
 |Cyrus     |             |Schoonbrood|4         |
-|Leroy     |             |Bemelen    |??        |
 |Rob       |de           |Jonge      |4         |
 |Bas       |             |Körver     |5         |
 |Joey      |             |Einerhand  |5         |
 |Jasper    |             |Lelieveld  |5         |
 |Kelvin    |             |Dormans    |5         |
 |Alain     |             |Lardinois  |6         |
-|Bas       |van          |Dooren     |6         |
+|Bas       |van          |Dooren     |----------|
+|Leroy     |             |Bemelen    |6         |
 |Robin     |             |Baltus     |6         |
 |Siem      |             |Neyzen     |6         |
